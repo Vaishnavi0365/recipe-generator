@@ -1,6 +1,6 @@
-# 🍳 AI Recipe Generator
+# 🍳Recipe Generator
 
-AI Recipe Generator is a responsive web application that helps users discover delicious recipes using ingredients.  
+Recipe Generator is a responsive web application that helps users discover delicious recipes using ingredients.  
 The application fetches recipe data from the Spoonacular API and displays recipe details including ingredients, cooking instructions, images, and YouTube recipe videos.
 
 ---
